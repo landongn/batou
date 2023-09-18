@@ -1,0 +1,36 @@
+{
+  "name": "batou",
+  "displayName": "batou",
+  "description": "dark high contrast",
+  "publisher": "landongn",
+  "version": "0.0.1",
+  "author": {
+    "name": "Landon Noss"
+  },
+  "scripts": {
+    "release": "vsce package && vsce publish"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landongn/batou.git"
+  },
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^2.20.1"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "batou",
+        "uiTheme": "vs-dark",
+        "path": "./themes/batou-color-theme.json"
+      }
+    ]
+  }
+}
