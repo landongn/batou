@@ -1,7 +1,7 @@
-# Batsignal
+# Batou
 
-A lifesaving dark theme.
+A set of fresh eyes.
 
-![Batsignal screenshot](screenshot2.png)
 
-[VSCode Extension](https://marketplace.visualstudio.com/items?itemName=tamagui.batsignal)
+[VSCode Extension](https://marketplace.visualstudio.com/items?itemName=landongn.batou)
+![Batou screenshot](image.png)
